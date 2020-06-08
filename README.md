@@ -2,7 +2,7 @@
  ## M can help you with 20 simple tasks:
    - Shutdown : Closes the program.
    - Open "..".com : Opens any website
-   - Send email/email : Follows up  with questions such as recipient name, content will be asked in order.
+   - Send email: Follows up  with questions such as recipient name, content will be asked in order.
    - Tell a joke: Says a random dad joke.
    - Current weather in {cityname} : Tells you the current condition and temperture
    - Greetings
