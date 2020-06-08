@@ -1,5 +1,5 @@
 # Personal-Assistant-M
-  M can help you with 20 simples tasks
+  M can help you with 20 simple tasks
    *Shutdown : closes the program.
    *Open xyz.com : replace xyz with any website name
    *Send email/email : Follow up questions such as recipient name, content will be asked in order.
