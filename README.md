@@ -1,8 +1,8 @@
 # Personal-Assistant-M
   M can help you with 20 simples tasks
-        * Shutdown : closes the program.
-        2. Open xyz.com : replace xyz with any website name
-        3. Send email/email : Follow up questions such as recipient name, content will be asked in order.
+   *Shutdown : closes the program.
+   *Open xyz.com : replace xyz with any website name
+   *Send email/email : Follow up questions such as recipient name, content will be asked in order.
         4. Tell a joke/another joke : Says a random dad joke.
         5. Current weather in {cityname} : Tells you the current condition and temperture
         7. Greetings
